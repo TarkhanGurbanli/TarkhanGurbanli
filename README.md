@@ -1,4 +1,4 @@
-[![MasterHead]https://media.istockphoto.com/id/1047259374/tr/foto%C4%9Fraf/programlama-kaynak-kodu-arka-plan.jpg?b=1&s=612x612&w=0&k=20&c=HyoCFs5J9v21X7bWg_WTubSu2knfFIhKIvslwcJ6SoY=
+https://media.istockphoto.com/id/1047259374/tr/foto%C4%9Fraf/programlama-kaynak-kodu-arka-plan.jpg?b=1&s=612x612&w=0&k=20&c=HyoCFs5J9v21X7bWg_WTubSu2knfFIhKIvslwcJ6SoY=
 
 <h1 align="center">Hi 👋, I'm Tarkhan</h1>
 <h3 align="center">A passionate backend developer from Azerbaijan</h3>
